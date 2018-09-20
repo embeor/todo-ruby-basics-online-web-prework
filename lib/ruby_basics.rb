@@ -12,7 +12,7 @@ def argue(argue="I'm right and you are wrong!")
 end
 
 def greeting (greeting, name)
-  
+
 end
 
 def return_a_value(value="Nice")
